@@ -1,5 +1,5 @@
 {
-  "name": "next-global",
+  "name": "@townhall/next-global",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,7 +11,8 @@
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
-    "next": "13.5.4"
+    "next": "13.5.4",
+    "next-common": "workspace:*"
   },
   "devDependencies": {
     "typescript": "^5",
